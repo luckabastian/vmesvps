@@ -289,7 +289,7 @@ function addSsh(username, password, ipAddr, userAgent) {
             `🔹 Username  : ${username}\n` +
             `🔹 Password  : ${password}\n` +
             `================================\n` +
-            ` powered by : d e d e f a t h u\n` +
+            ` powered by : L u c k a × J a d d\n` +
             `================================`;
         return { status: "success", message: accountDetails };
     } catch (e) {
@@ -590,7 +590,7 @@ const server = http.createServer(async (req, res) => {
             const defaultBanner = "==================================================\n" +
                                   "                 SSH SERVER PANEL                 \n" +
                                   "==================================================\n" +
-                                  " powered by : d e d e f a t h u\n" +
+                                  " powered by : L u c k a × J a d d\n" +
                                   "==================================================\n";
             try { fs.writeFileSync('/etc/dropbear_banner', defaultBanner); } catch(e){}
         }
