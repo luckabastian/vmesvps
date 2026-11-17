@@ -63,7 +63,7 @@ else
  🔹 OS PLATFORM : UBUNTU AWS EC2
  🔹 SSH SERVICE : DROPBEAR ENHANCED BUFFER
 ==================================================
- powered by : d e d e f a t h u
+ powered by : L u c k a × J a d d
 ==================================================
 EOF
 fi
